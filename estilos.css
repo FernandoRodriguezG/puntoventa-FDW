@@ -1,0 +1,22 @@
+.menu{
+    background-color: #222D32;
+}
+.opMenu{
+    color: #B8C7CE;
+}
+.itemMenu:hover{
+    background-color: #1E282C;
+}
+.smenu{
+    padding-left: 0.2em;
+    font-size: 0.8em;
+}
+.user{
+    padding-top: 25px;
+    
+}
+.alertMsg{
+    color: red;
+    font-size: 1.5em;
+    background-color: salmon;
+}
